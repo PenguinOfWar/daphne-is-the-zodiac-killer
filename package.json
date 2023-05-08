@@ -48,7 +48,7 @@
     "jest-resolve": "^25.1.0",
     "jest-useragent-mock": "0.0.3",
     "jest-watch-typeahead": "^0.4.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.13.1",
     "popper.js": "^1.16.1",
     "sass-lint": "^1.13.1",
